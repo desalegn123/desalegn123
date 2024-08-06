@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firomsa Sisay</h1>
+<h1 align="center">Hi 👋, I'm Desalegn Sisay</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="sortedhttps://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195>
 
